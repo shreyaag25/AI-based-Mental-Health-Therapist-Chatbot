@@ -1,1 +1,1 @@
-# AI-based-Mental-Health-Therapist-Chatbot
+The goal of this project is to create a chatbot that functions as a mental health therapist and can provide early help and guidance to people who are facing mental health issues. The chatbot's objectives are to guide users through difficult times and provide helpful information on mental health issues by responding in an empathic and understanding manner.
